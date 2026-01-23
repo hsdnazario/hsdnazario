@@ -11,6 +11,7 @@ I aim to be mentally stable and polite in my professional personality.
 
 ![image alt](https://github.com/hsdnazario/hsdnazario/blob/fa2d4017efe84d531d263b52144466e19e35d416/profile.png)
 
+![image alt](https://github.com/hsdnazario/hsdnazario/blob/376e70ea75bc16f04c9f4e0b7987b36febf57c00/Profile.png)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hsdnazario@addu.edu.ph) 
