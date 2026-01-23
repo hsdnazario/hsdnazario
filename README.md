@@ -5,13 +5,24 @@
 
 My Personal Taglines:
 
-I aim to be mentally stable and polite in my professional personality. 
+I aim to be mentally stable and polite in my professional personality.
 
+_________________________________________________________________________________________________
+
+Palette and Typography
 ![image alt](https://github.com/hsdnazario/hsdnazario/blob/main/Lab2%20palettetypography.png)
 
-![image alt](https://github.com/hsdnazario/hsdnazario/blob/fa2d4017efe84d531d263b52144466e19e35d416/profile.png)
+_________________________________________________________________________________________________
 
+Profile Banner
 ![image alt](https://github.com/hsdnazario/hsdnazario/blob/376e70ea75bc16f04c9f4e0b7987b36febf57c00/Profile.png)
+
+_________________________________________________________________________________________________
+
+Logo
+![image alt](https://github.com/hsdnazario/hsdnazario/blob/6b3e1db61321477b89c5e903cbca2aa27e325ff9/Lab2%20Logo.png)
+
+_________________________________________________________________________________________________
 
 Email: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
 
