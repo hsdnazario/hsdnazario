@@ -7,7 +7,7 @@ My Personal Taglines:
 
 I aim to be mentally stable and polite in my professional personality. 
 
-![image alt]((https://github.com/hsdnazario/hsdnazario/blob/69c7585670e133a066dd6bdfc4b9bc3d1176ee67/Lab2%20palettetypography.png))
+![image alt](https://github.com/hsdnazario/hsdnazario/blob/main/Lab2%20palettetypography.png)
 
 
 ## 🌐 Socials:
