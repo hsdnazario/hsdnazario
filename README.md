@@ -3,6 +3,13 @@
 
 ![image alt](https://github.com/hsdnazario/hsdnazario/blob/817fc0c6acf434e852c07bdccf2d5826974ed91e/Resume%20Header.png)
 
+My Personal Taglines:
+
+I aim to be mentally stable and polite in my professional personality. 
+
+![image alt](https://github.com/hsdnazario/hsdnazario/blob/74dbd0e00c3f021d71b7fa724c7a7d5d9ad204b5/Lab2%20palettetypography.pdf)
+
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hsdnazario@addu.edu.ph) 
 
