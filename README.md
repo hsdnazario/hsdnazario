@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on posters<br>👯 I’m looking to collaborate on drawings<br>🤝 I’m looking for help with posters<br>🌱 I’m currently learning about graphics designing<br>💬 Ask me about nothing<br>⚡ Fun fact N/A
 
+![image alt](https://github.com/hsdnazario/hsdnazario/blob/817fc0c6acf434e852c07bdccf2d5826974ed91e/Resume%20Header.png)
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hsdnazario@addu.edu.ph) 
 
@@ -13,7 +15,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hsdnazario&icon=0&color=2)](https://visitcount.itsvg.in)
-
-![image alt](https://github.com/hsdnazario/hsdnazario/blob/817fc0c6acf434e852c07bdccf2d5826974ed91e/Resume%20Header.png)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
