@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on posters<br>👯 I’m looking to collaborate on drawings<br>🤝 I’m looking for help with posters<br>🌱 I’m currently learning about graphics designing<br>💬 Ask me about nothing<br>⚡ Fun fact N/A
 
+Youtube Link: https://youtu.be/dO4XpWF28VE 
+
 ![image alt](https://github.com/hsdnazario/hsdnazario/blob/817fc0c6acf434e852c07bdccf2d5826974ed91e/Resume%20Header.png)
 
 My Personal Taglines:
